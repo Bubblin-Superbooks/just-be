@@ -1,9 +1,9 @@
 {
-  "name": "just-be",
+  "name": "Just Be",
   "type": "childrens",
   "has_page_numbers": false,
   "cover": {
-    "punchline": "",
+    "punchline": "\"I am the best me that I could ever be.\"",
     "toc": "",
     "author_detail": "",
     "colophon": "",
@@ -11,7 +11,7 @@
   },
   "status": "draft",
   "asset_url": "",
-  "book_url": "",
+  "book_url": "https://bubblin.io/book/just-be-by-paris-gramann-parisgramann",
   "mode": {
     "HTML": "html",
     "CSS": "css",
