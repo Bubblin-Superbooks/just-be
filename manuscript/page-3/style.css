@@ -1,0 +1,12 @@
+body {
+	background-image: url(https://raw.githubusercontent.com/marvindanig/just-be/master/assets/images/Page1FINAL.jpg);
+	background-position: center right;
+    height: 100vh;
+    background-size: 200% 100%;
+    color: white;	
+}
+
+.desc{
+    top: 5vh;
+    left: 14vw;
+}
